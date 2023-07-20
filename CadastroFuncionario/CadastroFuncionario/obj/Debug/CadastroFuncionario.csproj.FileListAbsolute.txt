@@ -1,0 +1,8 @@
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.exe.config
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.exe
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\bin\Debug\CadastroFuncionario.pdb
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.csproj.AssemblyReference.cache
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.exe
+C:\Users\2022100077\Desktop\ArquivosGit\RegisterEmployee\CadastroFuncionario\CadastroFuncionario\obj\Debug\CadastroFuncionario.pdb
